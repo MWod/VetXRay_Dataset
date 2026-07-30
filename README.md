@@ -50,7 +50,3 @@ Each check is reported as PASS / WARN / FAIL, where **FAIL** means the downloade
 copy is incomplete or corrupt and **WARN** flags a property of the release worth
 knowing before analysis. The exit status is non-zero only on FAIL. Results are
 written to `validation_output/` as five figures and `validation_report.csv`.
-
-## License
-
-`<license>`
